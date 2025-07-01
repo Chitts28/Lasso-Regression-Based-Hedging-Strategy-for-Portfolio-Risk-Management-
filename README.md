@@ -55,10 +55,10 @@ Lasso Regression-Based Hedging Strategy for Portfolio Risk Management
 - Sparse models are interpretable and easier to operationalize in real-world trading
 
 ## Contact
-- Pranay Saini
+- Chitransh Gangwar
 - Third Year Undergraduate, Department of Civil Engineering, IIT Kanpur
-- Email: pranays23@iitk.ac.in
-- LinkedIn: linkedin.com/in/pranay-saini-39bb76286
+- Email: chitranshg23@iitk.ac.in
+- LinkedIn: https://www.linkedin.com/in/chitransh-gangwar-51425a372/
 
 ## License
 - This project is released under the MIT License
